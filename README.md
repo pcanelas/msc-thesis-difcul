@@ -10,7 +10,7 @@ These are Frequently Asked Questions (FAQ) created by and to MSc. students doing
 
 #### What documentation do I need to deliver and when?
 There are two essential documents you are required to deliver during the first semester of your thesis.
-1. **Acordo Especifico:** *Only for students at FCUL.* Depending if you have co-advisors or not, you can find the documents here: [Acordo Especifico S/ Coorientador]() or [Acordo Especifico C/ Coorientador](). Should be delivered after two months of the starting date, e.g., if you put October 1st as starting date, should be delivered by 30th October. 
+1. **Acordo Especifico:** *Only for students at FCUL.* Depending if you have co-advisors or not, you can find the documents here: **Acordo Especifico S/ Coorientador** or **Acordo Especifico C/ Coorientador**. Should be delivered after two months of the starting date, e.g., if you put October 1st as starting date, should be delivered by 30th October. 
 2. **Registo de tese:** [Available here](https://ciencias.ulisboa.pt/sites/default/files/fcul/unidservico/ua/documentacao/Impresso_registo_2ciclo.pdf). Should be delivered at maximum by 31st December.
 
 A suggestion is to deliver this both documents simultaneously, as both require the signature of your advisor, by 30th November.
@@ -38,7 +38,7 @@ Now the Academic Services will check your application of the delivery of the the
 During the thesis discussion the jury may have delibered that you are required to make some changes to your thesis.
 You will be provided a list or document with the changes, and you will have **seven** business days to correct your thesis and forward your corrections to your advisor. After the advisor accepts the changes, you will need to send it to gepg@fc.ul.pt.
 
-You also are required to delivered a CD with the thesis and the following [cover]() to the academic services. You need to make an appointment by email or phone [(visit for more information)](https://ciencias.ulisboa.pt/pt/horarios-de-atendimento-covid).
+You also are required to delivered a CD with the thesis and the CD cover to the academic services. You need to make an appointment by email or phone [(visit for more information)](https://ciencias.ulisboa.pt/pt/horarios-de-atendimento-covid).
 
 
 
@@ -48,7 +48,7 @@ You also are required to delivered a CD with the thesis and the following [cover
 The thesis must follow a set of rules presented [here](https://ciencias.ulisboa.pt/sites/default/files/fcul/unidservico/ua/documentacao/2ciclo/normas_escrita_trabalho_final.pdf) by the faculty.
 
 #### What template should I use in my thesis?
-There are two templates, in [LaTeX]() and [Word](), available for the PEI students. We advise the use of the LaTeX template with [Overleaf](overleaf.com/) as it severaly improves thesis presentation. The LaTeX template, however, is currently outdated, and, until a pure soul decides to push an update, here are some corrections you need to do:
+There are two templates, in **LaTeX** and **Word**, available for the PEI students. We advise the use of the LaTeX template with [Overleaf](overleaf.com/) as it severaly improves thesis presentation. The LaTeX template, however, is currently outdated, and, until a pure soul decides to push an update, here are some corrections you need to do:
 
 1. **Cover:** is completely wrong. You need to generate a pdf from the Word template cover, and use includepdf.
 2. **Letter size** should be Times New Roman and set to 11 (*only enable when delivering*).
