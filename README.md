@@ -22,7 +22,7 @@ Yes. Fill the following form, [Requerimento Geral](https://ciencias.ulisboa.pt/s
 You no longer need a requirement to write the thesis in English. However, you need to write a summary of your work in Portuguese.
 
 #### Where do I submit the Preliminary Report?
-Currently on [PEIpal](peipal.di.fc.ul.pt/) by the end of the second month since the starting date.
+Currently on [PEIpal](https://peipal.di.fc.ul.pt/) by the end of the second month since the starting date.
 
 #### After a long journey, where do I submit my thesis?
 First of, congratulations! The hardest part is already done. To submit your thesis follow the steps described in **Fenix >* Formação Avançada > Processos de Dissertação / Teses*. You will be provided a set of requirements that are required to be filled. 
