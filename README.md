@@ -83,3 +83,16 @@ This section presents some tips and tricks on how to improve your thesis to prev
 - The last chapter of the introduction is the organization of the document. Do not include the Introduction in the document organization
 - Each chapter should start with a small introduction. If your chapter includes different and complex components, a diagram might be interesting to include to describe the interaction between the sections.
 - *Send us any extra tips!*
+
+
+
+
+---------------------------------------------------------------------------------------------------------------------------
+## Contributors
+- [Alcides Fonseca](https://github.com/alcides)
+- [Guilherme Espada](https://github.com/GUIpsp)
+- [Catarina Gamboa](https://github.com/CatarinaGamboa)
+- [João David](https://github.com/JoaoDavid)
+- [Máximo Oliveira](https://github.com/MaximoOliveira)
+- [Bernardo Ferrari](https://github.com/tarberd)
+
